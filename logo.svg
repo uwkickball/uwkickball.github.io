@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="280px" height="200px" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve">
+<g>
+	<g id="Layer_1_1_">
+		<path fill="#C3996C" stroke="#010101" stroke-width="0.8643" d="M20.35,119.953l84.7,76.346
+			c50.22-3.803,90.435-46.021,90.435-97.213c0-53.699-46.098-96.531-99.797-96.531l-76.346,84.7
+			c-9.063,0.315-17.127,8.146-16.813,17.21C2.844,113.529,11.287,120.268,20.35,119.953z"/>
+		
+			<rect x="87.979" y="20.989" transform="matrix(-0.7072 -0.707 0.707 -0.7072 139.356 107.6867)" fill="#E7E7E7" stroke="#010101" stroke-width="0.8643" width="7.995" height="7.996"/>
+		
+			<rect x="97.505" y="172.24" transform="matrix(-0.707 -0.7072 0.7072 -0.707 48.6391 372.6241)" fill="#E7E7E7" stroke="#010101" stroke-width="0.8643" width="7.994" height="7.994"/>
+		
+			<rect x="169.222" y="91.86" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 227.9312 286.1218)" fill="#E7E7E7" stroke="#010101" stroke-width="0.8643" width="7.995" height="7.995"/>
+		
+			<rect x="12.788" y="100.504" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -45.2396 190.2641)" fill="#E7E7E7" stroke="#010101" stroke-width="0.8643" width="7.994" height="7.994"/>
+		<rect x="87.549" y="93.161" fill="none" stroke="#010101" stroke-width="0.8643" width="6.697" height="16.998"/>
+		<path fill="#019547" stroke="#010101" stroke-width="0.8643" d="M167.567,108.718c-4.977-2.104-7.784-7.813-7.784-13.557
+			c0-4.7,2.622-8.785,6.199-11.292l-60.933-54.45c-2.104,4.976-6.882,8.292-12.624,8.292c-4.699,0-8.853-2.338-11.359-5.915
+			L25.535,92.729c4.977,2.105,8.576,6.598,8.576,12.34c0,4.7-3.701,8.057-7.279,10.563l62.445,54.955
+			c2.105-4.977,6.449-8.067,12.191-8.067c4.699,0,9.285,3.121,11.792,6.698L167.567,108.718z"/>
+		<circle fill="#E7E7E7" stroke="#010101" stroke-width="0.8643" cx="90.789" cy="102.236" r="13.829"/>
+	</g>
+	<g id="Layer_3">
+		<path opacity="0.75" fill="#FBB041" stroke="#010101" stroke-width="0.8643" enable-background="new    " d="M233.795,68.547
+			l-37.211,65.199c-29.629-25.461-147.28-35.184-179.29-29.495C30.613,79.332,197.528,56.752,233.795,68.547z"/>
+		
+			<radialGradient id="SVGID_1_" cx="231.915" cy="81.6196" r="43.2166" gradientTransform="matrix(0.848 -0.5299 -0.4239 -0.6784 71.7303 290.0244)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F37A8B"/>
+			<stop  offset="0.1459" style="stop-color:#F17786"/>
+			<stop  offset="0.3181" style="stop-color:#ED6F7C"/>
+			<stop  offset="0.5035" style="stop-color:#E8636C"/>
+			<stop  offset="0.6982" style="stop-color:#E25057"/>
+			<stop  offset="0.8983" style="stop-color:#DC3640"/>
+			<stop  offset="1" style="stop-color:#D92432"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_1_)" stroke="#010101" stroke-width="0.8643" cx="233.795" cy="111.761" r="43.214"/>
+	</g>
+</g>
+</svg>
