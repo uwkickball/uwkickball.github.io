@@ -1,0 +1,79 @@
+/*
+Theme Name: WC2015
+Theme URI: http://www.wilbertcopeland.com/
+Description: Original theme for WilbertCopeland refactored for WordPress.
+Author: Wilbert Copeland
+Author URI: http://wilbertcopeland.com/
+Version: 1.0
+*/
+
+@font-face {
+	font-family: Montserrat;
+	src: url(Montserrat-Regular.ttf);
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(Montserrat-Bold.ttf);
+	font-weight: bold;
+}
+
+body {
+	color: rgba(60,60,60,1);
+	font-family: Montserrat;
+	text-align: center;
+}
+
+h1 {
+	color: rgba(227,93,93,1);
+}
+
+h2 { 
+	color: rgba(82,168,86,1);
+}
+
+#main-wrap {
+	margin: 0px 10%;
+}
+
+a:link, a:visited {
+	color: rgba(160,160,160,1);
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: rgba(250, 90, 110, 1);
+}
+
+header {
+	/*margin: 0px 10%;*/
+}
+
+
+nav {
+	line-height: 60px;
+}
+
+ul {
+	list-style: none;
+}
+
+nav ul, .nav ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+nav li, .nav li {
+	display: inline;
+	padding: 10px 20px;
+}
+
+#logo {
+	text-align: center;
+}
+
+.centered {
+	margin: 0px auto;
+}
