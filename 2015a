@@ -1,1 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>UW Kickball</title>
+	<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+</head>
+
+<body>
+	<div id="main-wrap">
+		<header>
+			<div id="logo">
+				<a href="http://uwkickball.github.io/">
+					<img src="logo.svg"/>
+					<h1>UW KICKBALL</h1>
+					
+				</a>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="team1.html">kickBall Don't Lie or (Guns & Buns in the Sun)</a></li>
+					<li><a href="team2.html">OMG, Becky Look At Her Bunt</a></li>
+					<li><a href="team3.html">Team America: Kickball Police</a></li>
+				</ul>
+				
+			</nav>
+		</header>
+		<div class="main-content">
+			<h2>SCHEDULE</h2>
+			<section id="schedule">
+				July 10, 6:00pm: <a href="team2.html">OMG, Becky Look At Her Bunt</a> def. <a href="team1.html">kickBall Don't Lie or (Guns & Buns in the Sun)</a>, 11-4<br/>
+				July 17, 6:00pm: <a href="team3.html">Team America: Kickball Police</a> def. <a href="team2.html">OMG, Becky Look At Her Bunt</a>, 9-5<br/>
+				July 24, 6:00pm: <a href="team3.html">Team America: Kickball Police</a> def. <a href="team1.html">kickBall Don't Lie or (Guns & Buns in the Sun)</a>, 15-1<br/>
+			</section>
+			<section id="standings">
+				<h2>STANDINGS</h2>
+				<table class="centered">
+					<tr>
+						<th>TEAM</th>
+						<th>WINS</th>
+						<th>LOSSES</th>
+						<th>PT. DIFF</th>
+					</tr>
+					<tr>
+						<td><a href="team3.html">Team America: Kickball Police</a></td>
+						<td>2</td>
+						<td>0</td>
+						<td>+18</td>
+					</tr>
+					<tr>
+
+						<td><a href="team2.html">OMG, Becky Look At Her Bunt</a></td>
+						<td>1</td>
+						<td>1</td>
+						<td>+3</td>
+					</tr>
+					<tr>
+						<td><a href="team1.html">kickBall Don't Lie or (Guns & Buns in the Sun)</a></td>
+						<td>0</td>
+						<td>2</td>
+						<td>-21</td>
+					</tr>
+				</table>
+			</section>
+			
+			<section id="potw">
+				<h2>PLAYER OF THE WEEK</h2>
+				<ul>
+					<li>WEEK 1: <b>Wilbert Copeland: "Game-changing triple in the 5th inning. Brilliant closer performance, punctuated with the final 2 web-gem-worthy outs." - Eric Swanson & Ty Youngblood</b></li>
+				</ul>
+				<ul>
+					<li>WEEK 2: <b>Ty Youngblood: "Golden glove performance, a one-man highlight reel in the field, with a handful of RBIs and heads up baserunning that carried his team to victory." - Hal Holmes & Caitlin Anderson</b></li>
+				</ul>
+				<ul>
+					<li>WEEK 3: <b>Jean-Paul Toussaint: "Kicked an early home run, scored a few runs and rbis late, and impressively grabbed 3rd base while over-sliding to maintain contact. Everything a good ringer should do." - Wilbert Copeland & Mallory Monahan</b></li>
+				</ul>
+			</section>
+			
+			<section id="Postseason">
+				<h2>POSTSEASON</h2>
+				<ul>
+					<li>PLAYOFF: July 31, 6:00pm: <a href="team2.html">OMG, Becky Look At Her Bunt</a> def. <a href="team1.html">kickBall Don't Lie or (Guns & Buns in the Sun)</a>, 12-6<br/>
+					Player of the Week: <b>Dan Sedlacek
+					<li>"Both looking and playing the part, Dan was a blinding flash of neon-tighted lightning streaking around the bases and through the outfield, taking up enough field to easily make up for OMG Becky's 2-man deficit. Dan consistently sacrificed his body, and his pristine tights, laying out balls left and right, gobbling them up like the yellow hungry hungry hippo.</li>
+					<li>When the game got tight, Big D came up huge. Knotted at 4-3 in the bottom of the 4th, he knocked one deep to advance his runners, eventually leading to a 3-score inning. He protected that lead in the next inning with a sensational diving catch that left hopeful Buns & Guns runners stranded on base. Adding another RBI in the bottom of the 6th, Dan helped extend the lead and cement the victory. Not letting up despite the 12-6 lead, Dan stamped OMG Becky's ticket to the Championship with two more great catches for the final outs of the game." - Eric Swanson</b></li>
+				</ul>
+				<ul>
+					<li>CHAMPIONSHIP: July 17, 6:00pm: <a href="team2.html">OMG, Becky Look At Her Bunt</a> def. <a href="team3.html">Team America: Kickball Police</a>, 7-4 <br/></li>
+					<li>Player of the Week: <b>Dan Sedlacek</li>
+				<ul>
+			</section>
+			
+			<section id="Postseason MVP">
+				<h2>POSTSEASON MVP</h2>
+				<ul>
+					<li>Dan Sedlacek<br/></li>
+				<ul>
+					<li>" 'Dan's D was amazing' - Bob Lamm<br/>
+					<li></li>This quote, so eloquently whispered, summarizes the hall-of-fame worthy performance that graced the IMA Sports Field #1 East that teammates, opponents, and lookers-on are not likely to forget for years to come." - Eric Swanson<br/></li>
+				</ul>
+			</section>
+			
+			
+			<section id="directions">
+				<h2>DIRECTIONS</h2>
+				<iframe scrolling="no" marginheight="0" marginwidth="0" style="border:2px solid black;" src="https://www.google.com/maps/ms?msid=209037541826144661198.0004c2ea04d4405be1332&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=47.661283,-122.295084&amp;spn=0.011562,0.021372&amp;z=14&amp;output=embed" frameborder="0" height="200" width="250"></iframe>
+			</section>
+		</div>
+		<footer>
+			2015.
+		</footer>
+	</div>
+</body>
+
+</html>
 
